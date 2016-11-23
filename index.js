@@ -1,4 +1,4 @@
-import babel-polyfill;
-import * as DraftJS from './lib/Draft';
+import 'babel-polyfill';
+import * as DraftJS from 'draft-js';
 
 export default DraftJS;
